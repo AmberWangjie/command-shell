@@ -1,7 +1,7 @@
 miniproject:
 Command Shell
 
-Jie Wang (jw505)
+Jie Wang 
 
 *************************************************************************************************************************** 
 The program of my project is called myShell, which includes 4 files: myShell.cpp, myShell.h, execute.h, redipipe.h, 
