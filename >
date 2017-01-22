@@ -1,0 +1,6 @@
+copy into char**(argv): ./myShell
+myShell:/home/jw505/ece551/mp_miniproject$ only one argument
+debug_num: 
+argument:"ls"
+the number of arguments is 1
+PATH is myShell:/home/jw505/ece551/mp_miniproject$ 

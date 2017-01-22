@@ -1,0 +1,17 @@
+Grading at 12/03/2016:04:40:36.310468
+For commit ID b3a04582b2e9fead1931ef11f04fd6dc630d429c
+You have a file called completed.txt [good]
+Doing make clean...
+rm -f myShell *.o *.cpp~ *.h~
+rm -f perror *.o *.cpp~ *.h~
+rm -f sortline *.o *.cpp~ *.h~
+And make
+g++ -o myShell -ggdb3 -Wall -Werror -pedantic -std=gnu++11 myShell.cpp
+g++ -o perror -ggdb3 -Wall -Werror -pedantic -std=gnu++11 perror.cpp
+g++ -o sortline -ggdb3 -Wall -Werror -pedantic -std=gnu++11 sortline.cpp
+Make appears to have succeeded [good]
+This grade is not your real grade, and just indicates
+that your code 'make's fine.  Your real grade will be
+given after the deadline
+
+Overall Grade: 1

@@ -1,0 +1,41 @@
+total 1280
+drwxrwxr-x 2 jw505 jw505   4096 Dec  2 20:48  
+-rw-rw-r-- 1 jw505 jw505      0 Nov 30 00:15 <
+-rw-rw-r-- 1 jw505 jw505    201 Nov 29 03:46 >
+-rw-rw-r-- 1 jw505 jw505    461 Dec  2 00:33 Makefile
+-rw-rw-r-- 1 jw505 jw505   3603 Nov 14 02:21 README
+drwxrwxr-x 2 jw505 jw505   4096 Dec  2 20:42 a
+drwxrwxr-x 2 jw505 jw505   4096 Nov 30 20:25 a b  c
+drwxrwxr-x 2 jw505 jw505   4096 Dec  2 20:48 c
+-rw-rw-r-- 1 jw505 jw505   5280 Nov 14 14:05 cache.txt
+-rw-rw-r-- 1 jw505 jw505   4806 Nov 14 14:05 commandShell.txt
+-rw-rw-r-- 1 jw505 jw505   4182 Dec  3 01:49 complete.txt
+-rw-rw-r-- 1 jw505 jw505   3923 Dec  3 01:46 complete.txt~
+-rw-rw-r-- 1 jw505 jw505    349 Nov 30 20:45 copy.out
+drwxrwxr-x 2 jw505 jw505   4096 Dec  2 20:48 d
+-rw-rw-r-- 1 jw505 jw505     83 Nov 30 20:43 e.txt
+-rw-rw-r-- 1 jw505 jw505   8301 Dec  3 04:13 execute.h
+-rw-rw-r-- 1 jw505 jw505      0 Dec  3 04:15 ls
+-rw-rw-r-- 1 jw505 jw505    297 Dec  2 20:44 ls.out
+-rw-rw-r-- 1 jw505 jw505    305 Dec  2 20:47 ls1.out
+-rw-rw-r-- 1 jw505 jw505    349 Nov 30 20:45 lsall.out
+-rw-rw-r-- 1 jw505 jw505    349 Dec  1 02:29 lsall2.out
+-rwxrwxr-x 1 jw505 jw505 222562 Dec  3 04:14 myShell
+-rw-rw-r-- 1 jw505 jw505   4126 Dec  2 18:53 myShell.cpp
+-rw-rw-r-- 1 jw505 jw505    914 Dec  3 04:14 myShell.h
+-rw-rw-r-- 1 jw505 jw505   5313 Nov 14 14:05 numerics.txt
+-rw-rw-r-- 1 jw505 jw505      0 Dec  2 20:50 out
+-rwxrwxr-x 1 jw505 jw505 196777 Nov 30 22:23 perror
+-rw-rw-r-- 1 jw505 jw505    161 Nov 30 00:47 perror.cpp
+-rw-rw-r-- 1 jw505 jw505     24 Dec  2 18:20 pipetest1.txt
+-rw-rw-r-- 1 jw505 jw505     24 Dec  1 02:04 pipetest3.txt
+-rw-rw-r-- 1 jw505 jw505     24 Dec  1 02:05 pipetest4.txt
+-rw-rw-r-- 1 jw505 jw505   3020 Dec  3 04:14 redipipe.h
+-rw-rw-r-- 1 jw505 jw505     22 Nov 30 22:25 sort.txt
+-rwxrwxr-x 1 jw505 jw505 196777 Nov 30 22:24 sortline
+-rw-rw-r-- 1 jw505 jw505   1489 Nov 30 21:01 sortline.cpp
+-rw-rw-r-- 1 jw505 jw505     22 Nov 30 23:23 sorttest.txt
+-rw-rw-r-- 1 jw505 jw505 262144 Dec  1 19:45 temp
+-rw-rw-r-- 1 jw505 jw505 262144 Dec  2 14:29 temp2
+-rw-rw-r-- 1 jw505 jw505      0 Dec  3 04:15 test.txt
+-rw-rw-r-- 1 jw505 jw505      0 Nov 30 22:30 À!

@@ -1,0 +1,2 @@
+cat: nofile: No such file or directory
+/bin/cat: nofile: No such file or directory
